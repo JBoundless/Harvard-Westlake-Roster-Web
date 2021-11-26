@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.App {
+  background-color: black;
+  color: red;
+  font-family: 'Lato';
+}
+
+.roster-card {
+  background-color: red;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.roster-card:hover {
+  background-color: white;
+  color: red;
+  cursor: pointer;
+}
